@@ -1,1 +1,1 @@
-module philosophers
+module github.com/vladyslavpavlenko/philosophers
